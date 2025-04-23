@@ -1,181 +1,309 @@
 {
-    "intents": [
-      {
-        "tag": "greeting",
-        "patterns": ["hi", "hello", "hey", "hi there"],
-        "responses": [
-          "Hello! How can I assist you with Samasta Groups today?",
-          "Hey there! Ready to explore our IT solutions?"
-        ]
-      },
-      {
-        "tag": "about_samasta",
-        "patterns": ["who are you", "what is samasta groups", "tell me about samasta", "what do you do"],
-        "responses": [
-          "We’re Samasta Groups Pvt. Ltd., a team passionate about delivering top-tier IT solutions to drive business growth and innovation. How can we help you today?",
-          "At Samasta Groups, we provide personalized IT services to help businesses thrive in the digital age. What’s on your mind?"
-        ]
-      },
-      {
-        "tag": "contact_info",
-        "patterns": ["how do I contact you", "what's your address", "phone number", "email", "where are you located"],
-        "responses": [
-          "You can reach us at Sukedhara-9, Kathmandu, Nepal. Call us at +977 9844874516 or email info@samastagroups.com. How can we assist you?",
-          "We're based in Sukedhara-9, Kathmandu, Nepal. Contact us at +977 9844874516 or info@samastagroups.com—what’s the best way to connect with you?"
-        ]
-      },
-      {
-        "tag": "why_choose_us",
-        "patterns": ["why should I choose you", "what makes you special", "why samasta", "what sets you apart"],
-        "responses": [
-          "We stand out with our customer-centric approach, innovative solutions, and focus on quality. Plus, we offer scalable options and dedicated support. Want to know more?",
-          "At Samasta Groups, we prioritize excellence, security, and your success. What's important to you in an IT partner?"
-        ]
-      },
-      {
-        "tag": "services_overview",
-        "patterns": ["what services do you offer", "what do you do", "list your services", "tell me about your solutions"],
-        "responses": [
-          "We offer network design, cybersecurity, cloud solutions, custom software, and more. Anything specific you’d like to explore?",
-          "From network management to mobile apps, we've got a wide range of IT services. What are you looking for?"
-        ]
-      },
-      {
-        "tag": "network_design",
-        "patterns": ["tell me about network design", "what is network implementation", "do you set up networks"],
-        "responses": [
-          "We design and implement customized networks to optimize performance, security, and scalability. Need a network solution?",
-          "Our network design services create tailored solutions for your business. Want to boost your connectivity?"
-        ]
-      },
-      {
-        "tag": "network_management",
-        "patterns": ["what is network management", "do you manage networks", "network support"],
-        "responses": [
-          "We provide proactive monitoring and management to keep your network running smoothly. Interested in hassle-free network care?",
-          "Our network management includes updates, maintenance, and support—keeping downtime at bay. Sound good?"
-        ]
-      },
-      {
-        "tag": "security_solutions",
-        "patterns": ["what security do you offer", "tell me about security solutions", "how do you protect networks"],
-        "responses": [
-          "Our security solutions—like firewalls and intrusion detection—keep your network safe from threats. Want to lock it down?",
-          "We offer comprehensive security measures to protect your data and systems. Curious about specifics?"
-        ]
-      },
-      {
-        "tag": "strategic_it_planning",
-        "patterns": ["what is strategic it planning", "do you help with it strategy", "it planning"],
-        "responses": [
-          "We create actionable IT strategies aligned with your business goals. Ready to plan for success?",
-          "Our strategic IT planning helps you prioritize and build a roadmap for your tech needs. What’s your next step?"
-        ]
-      },
-      {
-        "tag": "digital_transformation",
-        "patterns": ["what is digital transformation", "can you modernize my business", "digital solutions"],
-        "responses": [
-          "We use cutting-edge tech to transform your operations and boost efficiency. Want to go digital?",
-          "Our digital transformation services help you stay competitive with innovative solutions. Sound exciting?"
-        ]
-      },
-      {
-        "tag": "cybersecurity_consulting",
-        "patterns": ["what is cybersecurity consulting", "do you do cybersecurity", "protect my business"],
-        "responses": [
-          "Our cybersecurity consulting assesses risks and strengthens your defenses against threats. Let’s keep you secure—interested?",
-          "We help safeguard your business with expert cybersecurity advice and solutions. What's your security concern?"
-        ]
-      },
-      {
-        "tag": "cloud_solutions",
-        "patterns": ["what are cloud solutions", "do you help with cloud", "cloud migration"],
-        "responses": [
-          "We optimize your IT with cloud solutions—migration, management, and more. Ready to move to the cloud?",
-          "Our cloud services improve flexibility and scalability for your business. Want to explore cloud options?"
-        ]
-      },
-      {
-        "tag": "firewall_solutions",
-        "patterns": ["what are firewall solutions", "do you offer firewalls", "firewall info"],
-        "responses": [
-          "Our advanced firewalls protect your network from unauthorized access and threats. Need one?",
-          "We provide tailored firewall solutions to secure your business. Interested in beefing up your defenses?"
-        ]
-      },
-      {
-        "tag": "servers",
-        "patterns": ["what servers do you have", "do you provide servers", "server solutions"],
-        "responses": [
-          "We offer reliable servers for all sizes—enterprise or small business. What's your server need?",
-          "Our servers ensure top performance and reliability. Looking for something specific?"
-        ]
-      },
-      {
-        "tag": "network_devices",
-        "patterns": ["what network devices do you offer", "do you sell routers", "network gear"],
-        "responses": [
-          "We provide top-tier routers, switches, and access points to enhance your network. Need some gear?",
-          "Our network devices boost connectivity and speed. What's on your wishlist?"
-        ]
-      },
-      {
-        "tag": "custom_software",
-        "patterns": ["what is custom software", "can you make software", "custom app info"],
-        "responses": [
-          "We build tailored, user-friendly software to meet your specific needs. Got an idea?",
-          "Our custom software solutions are robust and scalable. What do you want to create?"
-        ]
-      },
-      {
-        "tag": "enterprise_solutions",
-        "patterns": ["what are enterprise solutions", "do you do enterprise software", "big business solutions"],
-        "responses": [
-          "Our enterprise solutions streamline complex workflows and integrate with your systems. Big project in mind?",
-          "We offer comprehensive software for big businesses to automate processes. Interested?"
-        ]
-      },
-      {
-        "tag": "mobile_web_apps",
-        "patterns": ["do you make apps", "tell me about mobile apps", "web app info"],
-        "responses": [
-          "We craft innovative mobile and web apps for seamless experiences. Need one for your team or customers?",
-          "Our mobile and web apps boost engagement and productivity. What kind of app are you thinking?"
-        ]
-      },
-      {
-        "tag": "follow_up",
-        "patterns": ["tell me more", "what else", "more info", "go on", "anything else"],
-        "responses": [
-          "What else would you like to know about?",
-          "Happy to dive deeper—what's next on your mind?",
-          "Anything specific you want me to expand on?"
-        ]
-      },
-      {
-        "tag": "help",
-        "patterns": ["help", "what can you do", "how can you assist", "what should I ask"],
-        "responses": [
-          "I can tell you about our IT services, contact info, or why we're a great fit. What do you want to explore?",
-          "Need help? Ask me about network solutions, cybersecurity, custom apps, or anything else!"
-        ]
-      },
-      {
-        "tag": "goodbye",
-        "patterns": ["bye", "goodbye", "see you", "thanks"],
-        "responses": [
-          "See you later! Let us know if you need more IT help!",
-          "Goodbye! Hope to chat again soon about your tech needs!"
-        ]
-      },
-      {
-        "tag": "fallback",
-        "patterns": ["huh", "what", "I don't get it", "not sure"],
-        "responses": [
-          "Oops, I might’ve missed the mark. Could you tell me more? I'm here to help with Samasta Groups' IT solutions!",
-          "Not sure what you mean—want to ask about our services or something else?"
-        ]
-      }
-    ]
-  }
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi", "hello", "hey", "hi there", "hola", "heya", "sup",
+        "good morning", "good afternoon", "good evening", "greetings",
+        "yo", "wassup", "hey there", "hiya", "howdy", "sup dude",
+        "hey man", "hey girl", "hey bro", "hey sis", "hi friend",
+        "hello there", "hiya there", "hey there", "greetings friend"
+      ],
+      "responses": [
+        "Hello! Welcome to Samasta Groups. How can I assist you with our IT solutions today?",
+        "Hey there! Excited to help you explore what Samasta Groups can do for your business. What's up?",
+        "Hi! I'm MASTA-BOT, here to guide you through our IT services. How can I help?"
+      ]
+    },
+    {
+      "tag": "about_samasta",
+      "patterns": [
+        "who are you", "what is samasta groups", "tell me about samasta", "what do you do",
+        "who is samasta", "what's samasta about", "about your company", "tell me more about you",
+        "what's your deal", "what's your story", "who are you guys", "what's your company about",
+        "tell me about your company", "what do you guys do", "what's your business",
+        "what's your company", "what's your organization", "what's your firm"
+      ],
+      "responses": [
+        "We're Samasta Groups Pvt. Ltd., a passionate team delivering top-tier IT solutions to fuel business growth and innovation. Need help with something specific?",
+        "Samasta Groups, we specialize in personalized IT services to help businesses thrive in the digital world. What's on your mind?",
+        "Samasta Groups is all about innovative IT, think networks, software, and cybersecurity. How can we support you today?"
+      ]
+    },
+    {
+      "tag": "contact_info",
+      "patterns": [
+        "how do I contact you", "what's your address", "phone number", "email", "where are you located",
+        "contact details", "how to reach you", "office location", "get in touch", "phone", "mail",
+        "where's your office", "how can I call you"
+      ],
+      "responses": [
+        "You can reach us at Sukedhara-9, Kathmandu, Nepal. Call +977 9844874516 or email info@samastagroups.com. How can we assist you today?",
+        "We're at Sukedhara-9, Kathmandu, Nepal. Contact us at +977 9844874516 or info@samastagroups.com. What's the best way to connect?",
+        "Our office is in Sukedhara-9, Kathmandu, Nepal. Phone: +977 9844874516, Email: info@samastagroups.com. Ready to chat?"
+      ]
+    },
+    {
+      "tag": "why_choose_us",
+      "patterns": [
+        "why should I choose you", "what makes you special", "why samasta", "what sets you apart",
+        "why pick you", "what's your edge", "why are you better", "benefits of choosing you"
+      ],
+      "responses": [
+        "We're all about a customer-first vibe, cutting-edge solutions, and top quality. Our scalable services and dedicated support make us stand out. Want to dig deeper?",
+        "At Samasta Groups, we blend innovation, security, and excellence to boost your success. What matters most to you in an IT partner?",
+        "Choose us for our tailored approach and reliable results. Curious? Email info@samastagroups.com for more!"
+      ]
+    },
+    {
+      "tag": "services_overview",
+      "patterns": [
+        "what services do you offer", "what do you do", "tell me about your solutions",
+        "what can you do for me", "services you provide", "what's your expertise",
+        "what services do you provide", "what kind of services do you offer",
+        "what services are available", "what do you guys do", "what can you help with",
+        "what are your services", "what services are there", "what do you provide",
+        "what can you help me with", "what kind of help do you offer"
+      ],
+      "responses": [
+        "We've got a wide range of IT services like network design, cybersecurity, and custom software. Want a full list or details on something specific?",
+        "From cloud solutions to mobile apps, we cover all things IT. Curious about the full lineup? Just ask!"
+      ]
+    },
+    {
+      "tag": "list_services",
+      "patterns": [
+        "list your services", "name all services", "what are all your services",
+        "show me your services", "can you name the services you provide",
+        "list everything you do", "all your services", "full list of services"
+      ],
+      "responses": [
+        "Here's what we offer: Network Design & Implementation, Network Management, Security Solutions, Strategic IT Planning, Digital Transformation, Cybersecurity Consulting, Cloud Solutions, Firewall Solutions, Servers, Network Devices, Custom Software Applications, Enterprise Solutions, and Mobile & Web Applications. Which one interests you?",
+        "We provide: Network Design, Network Management, Security Solutions, Strategic IT Planning, Digital Transformation, Cybersecurity Consulting, Cloud Solutions, Firewalls, Servers, Network Devices, Custom Software, Enterprise Solutions, and Mobile/Web Apps. Want to dive into any of these?"
+      ]
+    },
+    {
+      "tag": "network_design",
+      "patterns": [
+        "tell me about network design", "what is network implementation", "do you set up networks",
+        "network setup", "design my network", "how do you do networks", "network solutions"
+      ],
+      "responses": [
+        "We design and implement custom networks for top performance, security, and scalability. Need a network revamp?",
+        "Our network design services craft solutions tailored to your business. Want to boost your connectivity? Contact us at info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "network_management",
+      "patterns": [
+        "what is network management", "do you manage networks", "network support",
+        "manage my network", "network maintenance", "keep my network running"
+      ],
+      "responses": [
+        "We proactively monitor and manage networks to keep them smooth and downtime-free. Interested in stress-free network care?",
+        "Our network management covers updates, maintenance, and support. Sound good? Let's chat at +977 9844874516!"
+      ]
+    },
+    {
+      "tag": "security_solutions",
+      "patterns": [
+        "what security do you offer", "tell me about security solutions", "how do you protect networks",
+        "network security", "secure my system", "what's your security like"
+      ],
+      "responses": [
+        "Our security solutions—like firewalls and intrusion detection—shield your network from threats. Ready to lock it down?",
+        "We provide full-on security to keep your data and systems safe. Want specifics? Email info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "strategic_it_planning",
+      "patterns": [
+        "what is strategic it planning", "do you help with it strategy", "it planning",
+        "plan my it", "it roadmap", "strategic help"
+      ],
+      "responses": [
+        "We craft actionable IT strategies that align with your goals. Ready to plan your tech future?",
+        "Our strategic IT planning sets priorities and builds a roadmap for success. What's your next step?"
+      ]
+    },
+    {
+      "tag": "digital_transformation",
+      "patterns": [
+        "what is digital transformation", "can you modernize my business", "digital solutions",
+        "go digital", "upgrade my business", "modern tech"
+      ],
+      "responses": [
+        "We use the latest tech to transform your operations and boost efficiency. Ready to go digital?",
+        "Our digital transformation services keep you competitive with smart solutions. Excited? Contact us at +977 9844874516!"
+      ]
+    },
+    {
+      "tag": "cybersecurity_consulting",
+      "patterns": [
+        "what is cybersecurity consulting", "do you do cybersecurity", "protect my business",
+        "cyber security", "keep me safe", "security advice"
+      ],
+      "responses": [
+        "Our cybersecurity consulting spots risks and beefs up your defenses. Want to stay secure? Let's talk!",
+        "We offer expert cybersecurity advice to safeguard your business. Got a concern? Email info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "cloud_solutions",
+      "patterns": [
+        "what are cloud solutions", "do you help with cloud", "cloud migration",
+        "cloud services", "move to cloud", "cloud stuff"
+      ],
+      "responses": [
+        "We optimize your IT with cloud solutions—migration, management, and more. Ready to shift to the cloud?",
+        "Our cloud services boost flexibility and scalability. Curious? Reach out at info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "firewall_solutions",
+      "patterns": [
+        "what are firewall solutions", "do you offer firewalls", "firewall info",
+        "firewalls", "network protection", "block threats"
+      ],
+      "responses": [
+        "Our advanced firewalls block unauthorized access and threats. Need one for your network?",
+        "We tailor firewall solutions to keep your business secure. Interested? Call +977 9844874516!"
+      ]
+    },
+    {
+      "tag": "servers",
+      "patterns": [
+        "what servers do you have", "do you provide servers", "server solutions",
+        "servers for me", "server options", "buy servers"
+      ],
+      "responses": [
+        "We offer reliable servers for any size—enterprise or small business. What's your server need?",
+        "Our servers deliver top performance and reliability. Looking for something? Email info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "network_devices",
+      "patterns": [
+        "what network devices do you offer", "do you sell routers", "network gear",
+        "routers", "switches", "access points", "network hardware"
+      ],
+      "responses": [
+        "We've got top-tier routers, switches, and access points to amp up your network. Need some gear?",
+        "Our network devices boost speed and connectivity. What's on your list? Contact us at +977 9844874516!"
+      ]
+    },
+    {
+      "tag": "custom_software",
+      "patterns": [
+        "what is custom software", "can you make software", "custom app info",
+        "build me software", "custom apps", "software for me"
+      ],
+      "responses": [
+        "We create tailored, user-friendly software to fit your needs. Got an idea in mind?",
+        "Our custom software is robust and scalable. Want to build something? Email info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "enterprise_solutions",
+      "patterns": [
+        "what are enterprise solutions", "do you do enterprise software", "big business solutions",
+        "enterprise help", "software for big companies", "business systems"
+      ],
+      "responses": [
+        "Our enterprise solutions streamline workflows and integrate with your systems. Big project ahead?",
+        "We build comprehensive software for big businesses. Interested? Reach out at +977 9844874516!"
+      ]
+    },
+    {
+      "tag": "mobile_web_apps",
+      "patterns": [
+        "do you make apps", "tell me about mobile apps", "web app info",
+        "mobile app", "web application", "build an app", "app development"
+      ],
+      "responses": [
+        "We craft innovative mobile and web apps for seamless experiences. Need one for your team or customers?",
+        "Our mobile and web apps boost engagement and productivity. What's your app idea? Email info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "pricing",
+      "patterns": [
+        "how much", "cost", "price", "pricing", "how expensive", "what's the rate","what are your pricing",
+        "how much does it cost", "give me a quote", "budget","how much", "cost", "price", "pricing", "how expensive", "what's the rate",
+        "how much does it cost", "give me a quote", "budget",
+        "how much for cloud", "cost of firewall", "price for software", "how expensive is network design"
+      ],
+      "responses": [
+        "Pricing depends on your needs! For a custom quote, email us at info@samastagroups.com or call +977 9844874516.",
+        "We tailor our pricing to your project. Want details? Contact us at info@samastagroups.com!",
+        "Costs vary by solution. let's get you a quote! Reach out at +977 9844874516.",
+        "Pricing varies by project! For a custom quote whether it's cloud, firewalls, or anything else email info@samastagroups.com or call +977 9844874516.",
+        "We tailor costs to your needs, from software to networks. Want a quote? Reach out at info@samastagroups.com!"
+      ]
+    },
+    {
+      "tag": "availability",
+      "patterns": [
+        "are you available", "when can you start", "how soon", "availability",
+        "can you start now", "timeline", "how long will it take"
+      ],
+      "responses": [
+        "We're ready to kick off when you are! For timelines, email info@samastagroups.com with your project details.",
+        "Availability depends on your project, let's discuss! Call us at +977 9844874516."
+      ]
+    },
+    {
+      "tag": "follow_up",
+      "patterns": [
+        "tell me more", "what else", "more info", "go on", "anything else",
+        "keep going", "more details", "elaborate"
+      ],
+      "responses": [
+        "What else would you like to dive into?",
+        "Happy to keep chatting—what's next on your mind?",
+        "Got more questions? I'm all ears!"
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "help", "what can you do", "how can you assist", "what should I ask",
+        "guide me", "what do I do", "how does this work", "assist me"
+      ],
+      "responses": [
+        "I'm here to help with our IT services, contact info, or anything Samasta-related. What do you want to explore?",
+        "Ask me about network solutions, cybersecurity, apps, or more—I've got you covered! What's up?",
+        "Not sure where to start? Try asking about our services or how to reach us!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye", "goodbye", "see you", "thanks", "thank you", "later",
+        "cya", "ok bye", "exit chat"
+      ],
+      "responses": [
+        "See you later! Need more IT help? We're at info@samastagroups.com.",
+        "Goodbye! Hope to chat again soon about your tech needs!",
+        "Thanks for stopping by! Reach out anytime at +977 9844874516."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [
+        "huh", "what", "I don't get it", "not sure", "sorry", "idk", "confused", 
+        "what's that", "no idea", "??", "help me understand", "what do you mean",
+        "can you explain", "I don't understand", "could you clarify", "what does that mean",
+        "not following", "lost me", "say again", "repeat that", "come again",
+        "what was that", "didn't catch that", "what did you say", "can you rephrase"
+      ],
+      "responses": [
+        "I might not have understood that correctly. Could you try rephrasing your question?",
+        "I'm not quite sure what you mean. Could you ask in a different way?",
+        "Let me help you better. Could you try asking your question differently?",
+        "I want to make sure I understand you correctly. Could you rephrase that?",
+        "I'm having trouble understanding. Could you try asking another way?"
+      ]
+    }
+  ]
+}

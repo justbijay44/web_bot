@@ -1,0 +1,539 @@
+2025-02-27 09:09:15,817 - INFO - User input: Hello | Predicted intent: greeting
+2025-02-27 09:09:26,504 - INFO - User input: What is samasta groups | Predicted intent: about_samasta
+2025-02-27 09:09:37,133 - INFO - User input: what services do you provide | Predicted intent: services_overview
+2025-02-27 09:09:54,382 - INFO - User input: Can you name the services you guys provide | Predicted intent: services_overview
+2025-02-27 10:08:18,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-02-27 10:08:18,806 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 10:08:18,827 - INFO -  * Restarting with stat
+2025-02-27 10:08:21,437 - WARNING -  * Debugger is active!
+2025-02-27 10:08:21,440 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:09:25,029 - INFO - 127.0.0.1 - - [27/Feb/2025 10:09:25] "GET / HTTP/1.1" 200 -
+2025-02-27 10:09:25,068 - INFO - 127.0.0.1 - - [27/Feb/2025 10:09:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-27 10:09:31,428 - INFO - User input: Hello there | Predicted intent: greeting
+2025-02-27 10:09:31,429 - INFO - 127.0.0.1 - - [27/Feb/2025 10:09:31] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:09:39,717 - INFO - User input: What is even samasta group | Predicted intent: about_samasta
+2025-02-27 10:09:39,718 - INFO - 127.0.0.1 - - [27/Feb/2025 10:09:39] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:09:49,285 - INFO - User input: so what services do you provide | Predicted intent: list_services
+2025-02-27 10:09:49,285 - INFO - 127.0.0.1 - - [27/Feb/2025 10:09:49] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:10:06,965 - INFO - User input: what is the pricing for you cybersecuirty consulting | Predicted intent: cybersecurity_consulting
+2025-02-27 10:10:06,965 - INFO - 127.0.0.1 - - [27/Feb/2025 10:10:06] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:10:18,596 - INFO - User input: where are you located | Predicted intent: contact_info
+2025-02-27 10:10:18,597 - INFO - 127.0.0.1 - - [27/Feb/2025 10:10:18] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:11:50,888 - INFO - 127.0.0.1 - - [27/Feb/2025 10:11:50] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:16:35,303 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-02-27 10:16:35,303 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 10:16:35,305 - INFO -  * Restarting with stat
+2025-02-27 10:16:38,059 - WARNING -  * Debugger is active!
+2025-02-27 10:16:38,062 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:16:38,200 - INFO - 127.0.0.1 - - [27/Feb/2025 10:16:38] "GET / HTTP/1.1" 200 -
+2025-02-27 10:16:45,481 - INFO - User input: how are you | Predicted intent: about_samasta
+2025-02-27 10:16:45,482 - INFO - 127.0.0.1 - - [27/Feb/2025 10:16:45] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:19:13,306 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-02-27 10:19:13,644 - INFO -  * Restarting with stat
+2025-02-27 10:19:16,315 - WARNING -  * Debugger is active!
+2025-02-27 10:19:16,317 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:19:56,915 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-02-27 10:19:57,077 - INFO -  * Restarting with stat
+2025-02-27 10:19:59,928 - WARNING -  * Debugger is active!
+2025-02-27 10:19:59,931 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:20:32,219 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-02-27 10:20:32,220 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 10:20:32,222 - INFO -  * Restarting with stat
+2025-02-27 10:20:34,851 - WARNING -  * Debugger is active!
+2025-02-27 10:20:34,854 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:20:34,940 - INFO - 127.0.0.1 - - [27/Feb/2025 10:20:34] "GET / HTTP/1.1" 200 -
+2025-02-27 10:20:42,623 - INFO - User input: What services do you offer | Predicted intent: services_overview
+2025-02-27 10:20:42,624 - INFO - 127.0.0.1 - - [27/Feb/2025 10:20:42] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:21:06,362 - INFO - User input: How do I contact you | Predicted intent: contact_info
+2025-02-27 10:21:06,363 - INFO - 127.0.0.1 - - [27/Feb/2025 10:21:06] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:21:14,667 - INFO - User input: What services do you offer | Predicted intent: services_overview
+2025-02-27 10:21:14,668 - INFO - 127.0.0.1 - - [27/Feb/2025 10:21:14] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:21:26,494 - INFO - User input: How do I contact you | Predicted intent: contact_info
+2025-02-27 10:21:26,495 - INFO - 127.0.0.1 - - [27/Feb/2025 10:21:26] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:21:28,538 - INFO - User input: How much | Predicted intent: pricing
+2025-02-27 10:21:28,539 - INFO - 127.0.0.1 - - [27/Feb/2025 10:21:28] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:21:30,057 - INFO - User input: What services do you offer | Predicted intent: services_overview
+2025-02-27 10:21:30,057 - INFO - 127.0.0.1 - - [27/Feb/2025 10:21:30] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:21:31,433 - INFO - 127.0.0.1 - - [27/Feb/2025 10:21:31] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:27:06,673 - INFO - 127.0.0.1 - - [27/Feb/2025 10:27:06] "GET / HTTP/1.1" 200 -
+2025-02-27 10:27:17,114 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-02-27 10:27:17,114 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 10:27:17,118 - INFO -  * Restarting with stat
+2025-02-27 10:27:19,740 - WARNING -  * Debugger is active!
+2025-02-27 10:27:19,743 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:27:19,845 - INFO - 127.0.0.1 - - [27/Feb/2025 10:27:19] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:30:32,095 - INFO - 127.0.0.1 - - [27/Feb/2025 10:30:32] "GET / HTTP/1.1" 200 -
+2025-02-27 10:30:47,565 - INFO - 127.0.0.1 - - [27/Feb/2025 10:30:47] "GET / HTTP/1.1" 200 -
+2025-02-27 10:35:14,366 - INFO - 127.0.0.1 - - [27/Feb/2025 10:35:14] "GET / HTTP/1.1" 200 -
+2025-02-27 10:35:14,402 - INFO - 127.0.0.1 - - [27/Feb/2025 10:35:14] "GET /static/chat-icon.png HTTP/1.1" 200 -
+2025-02-27 10:36:04,611 - INFO - 127.0.0.1 - - [27/Feb/2025 10:36:04] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:36:04,914 - INFO - 127.0.0.1 - - [27/Feb/2025 10:36:04] "GET /static/chat-icon.png HTTP/1.1" 200 -
+2025-02-27 10:37:03,296 - INFO - 127.0.0.1 - - [27/Feb/2025 10:37:03] "GET / HTTP/1.1" 200 -
+2025-02-27 10:37:03,340 - INFO - 127.0.0.1 - - [27/Feb/2025 10:37:03] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:38:28,703 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:28] "GET / HTTP/1.1" 200 -
+2025-02-27 10:38:28,725 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:28] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:38:28,944 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:28] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:38:29,024 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:29] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:38:33,654 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:33] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:38:33,690 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:38:33,918 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:38:34,000 - INFO - 127.0.0.1 - - [27/Feb/2025 10:38:34] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:39:04,109 - INFO - 127.0.0.1 - - [27/Feb/2025 10:39:04] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:39:04,138 - INFO - 127.0.0.1 - - [27/Feb/2025 10:39:04] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:39:04,372 - INFO - 127.0.0.1 - - [27/Feb/2025 10:39:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:39:04,452 - INFO - 127.0.0.1 - - [27/Feb/2025 10:39:04] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:41:04,237 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:04] "GET / HTTP/1.1" 200 -
+2025-02-27 10:41:04,267 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:04] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:41:04,491 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:04] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:41:04,577 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:04] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:41:39,385 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:39] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:41:39,413 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:39] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:41:39,629 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:41:39,723 - INFO - 127.0.0.1 - - [27/Feb/2025 10:41:39] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:42:01,540 - INFO - 127.0.0.1 - - [27/Feb/2025 10:42:01] "GET / HTTP/1.1" 200 -
+2025-02-27 10:42:01,555 - INFO - 127.0.0.1 - - [27/Feb/2025 10:42:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:42:01,762 - INFO - 127.0.0.1 - - [27/Feb/2025 10:42:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:42:01,873 - INFO - 127.0.0.1 - - [27/Feb/2025 10:42:01] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:42:15,003 - INFO - User input: What are the services you provide | Predicted intent: list_services
+2025-02-27 10:42:15,004 - INFO - 127.0.0.1 - - [27/Feb/2025 10:42:15] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:44:01,528 - INFO - 127.0.0.1 - - [27/Feb/2025 10:44:01] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:44:01,553 - INFO - 127.0.0.1 - - [27/Feb/2025 10:44:01] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:44:01,824 - INFO - 127.0.0.1 - - [27/Feb/2025 10:44:01] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:44:01,849 - INFO - 127.0.0.1 - - [27/Feb/2025 10:44:01] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:44:05,555 - INFO - User input: What services do you offer | Predicted intent: services_overview
+2025-02-27 10:44:05,556 - INFO - 127.0.0.1 - - [27/Feb/2025 10:44:05] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:46:29,069 - INFO - 127.0.0.1 - - [27/Feb/2025 10:46:29] "GET / HTTP/1.1" 200 -
+2025-02-27 10:46:29,094 - INFO - 127.0.0.1 - - [27/Feb/2025 10:46:29] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:46:29,333 - INFO - 127.0.0.1 - - [27/Feb/2025 10:46:29] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:46:29,400 - INFO - 127.0.0.1 - - [27/Feb/2025 10:46:29] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:46:42,130 - INFO - User input: What are the services you provide | Predicted intent: list_services
+2025-02-27 10:46:42,132 - INFO - 127.0.0.1 - - [27/Feb/2025 10:46:42] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:47:23,162 - INFO - 127.0.0.1 - - [27/Feb/2025 10:47:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:47:51,788 - INFO - 127.0.0.1 - - [27/Feb/2025 10:47:51] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:47:51,815 - INFO - 127.0.0.1 - - [27/Feb/2025 10:47:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:47:52,103 - INFO - 127.0.0.1 - - [27/Feb/2025 10:47:52] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:47:52,128 - INFO - 127.0.0.1 - - [27/Feb/2025 10:47:52] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:48:17,378 - INFO - User input: services you provide | Predicted intent: list_services
+2025-02-27 10:48:17,379 - INFO - 127.0.0.1 - - [27/Feb/2025 10:48:17] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:49:47,994 - INFO - 127.0.0.1 - - [27/Feb/2025 10:49:47] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:49:48,038 - INFO - 127.0.0.1 - - [27/Feb/2025 10:49:48] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 10:49:48,291 - INFO - 127.0.0.1 - - [27/Feb/2025 10:49:48] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:49:48,331 - INFO - 127.0.0.1 - - [27/Feb/2025 10:49:48] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:49:52,804 - INFO - User input: services | Predicted intent: list_services
+2025-02-27 10:49:52,805 - INFO - 127.0.0.1 - - [27/Feb/2025 10:49:52] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:51:04,476 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:04] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:51:04,504 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:51:04,792 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:04] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:51:04,817 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:04] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:51:11,094 - INFO - User input: what services do you provide | Predicted intent: list_services
+2025-02-27 10:51:11,094 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:11] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:51:33,133 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:33] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:51:33,438 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:51:33,482 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:33] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:51:33,522 - INFO - 127.0.0.1 - - [27/Feb/2025 10:51:33] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:52:01,927 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:01] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:52:01,958 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:52:02,198 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:02] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:52:02,268 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:02] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:52:16,746 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:16] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:52:16,789 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:52:16,996 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:16] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:52:17,151 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:17] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:52:26,012 - INFO - User input: what are the services you provide | Predicted intent: list_services
+2025-02-27 10:52:26,012 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:26] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:52:53,339 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:53] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:52:53,655 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:52:53,686 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:53] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:52:53,689 - INFO - 127.0.0.1 - - [27/Feb/2025 10:52:53] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:53:00,434 - INFO - User input: what services do you provide | Predicted intent: list_services
+2025-02-27 10:53:00,434 - INFO - 127.0.0.1 - - [27/Feb/2025 10:53:00] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:53:12,969 - INFO - User input: what is the network design | Predicted intent: network_design
+2025-02-27 10:53:12,970 - INFO - 127.0.0.1 - - [27/Feb/2025 10:53:12] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:53:34,108 - INFO - User input: under mobile/web app what are available | Predicted intent: mobile_web_apps
+2025-02-27 10:53:34,110 - INFO - 127.0.0.1 - - [27/Feb/2025 10:53:34] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:53:46,451 - INFO - User input: what are your contact infos | Predicted intent: contact_info
+2025-02-27 10:53:46,452 - INFO - 127.0.0.1 - - [27/Feb/2025 10:53:46] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:54:01,810 - INFO - User input: can you mention the pricing of web development | Predicted intent: mobile_web_apps
+2025-02-27 10:54:01,811 - INFO - 127.0.0.1 - - [27/Feb/2025 10:54:01] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:57:48,759 - INFO - 127.0.0.1 - - [27/Feb/2025 10:57:48] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:57:48,791 - INFO - 127.0.0.1 - - [27/Feb/2025 10:57:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:57:49,076 - INFO - 127.0.0.1 - - [27/Feb/2025 10:57:49] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-27 10:57:49,098 - INFO - 127.0.0.1 - - [27/Feb/2025 10:57:49] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:57:54,502 - INFO - User input: what are your pricing | Predicted intent: fallback
+2025-02-27 10:57:54,503 - INFO - 127.0.0.1 - - [27/Feb/2025 10:57:54] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:58:03,011 - INFO - User input: pricing | Predicted intent: pricing
+2025-02-27 10:58:03,012 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:03] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:58:24,124 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:24] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:58:24,150 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:58:24,388 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:24] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:58:24,465 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:24] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:58:26,943 - INFO - User input: what are your pricing | Predicted intent: fallback
+2025-02-27 10:58:26,945 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:26] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:58:41,965 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-02-27 10:58:41,966 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 10:58:41,968 - INFO -  * Restarting with stat
+2025-02-27 10:58:45,181 - WARNING -  * Debugger is active!
+2025-02-27 10:58:45,188 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 10:58:57,056 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:57] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:58:57,076 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:58:57,261 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:57] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 10:58:57,389 - INFO - 127.0.0.1 - - [27/Feb/2025 10:58:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:59:02,373 - INFO - User input: what are your pricing | Predicted intent: pricing
+2025-02-27 10:59:02,374 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:02] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:59:29,614 - INFO - User input: what are your pricing | Predicted intent: pricing
+2025-02-27 10:59:29,615 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:29] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:59:32,891 - INFO - User input: what are your pricing | Predicted intent: pricing
+2025-02-27 10:59:32,892 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:32] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:59:35,109 - INFO - User input: what are your pricing | Predicted intent: pricing
+2025-02-27 10:59:35,110 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:35] "POST /chat HTTP/1.1" 200 -
+2025-02-27 10:59:38,111 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:38] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 10:59:38,153 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 10:59:38,374 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 10:59:38,467 - INFO - 127.0.0.1 - - [27/Feb/2025 10:59:38] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:00:00,301 - INFO - 127.0.0.1 - - [27/Feb/2025 11:00:00] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:00:00,335 - INFO - 127.0.0.1 - - [27/Feb/2025 11:00:00] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 11:00:00,548 - INFO - 127.0.0.1 - - [27/Feb/2025 11:00:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:00:00,645 - INFO - 127.0.0.1 - - [27/Feb/2025 11:00:00] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:01:10,667 - INFO - User input: who are you | Predicted intent: about_samasta
+2025-02-27 11:01:10,667 - INFO - 127.0.0.1 - - [27/Feb/2025 11:01:10] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:01:29,382 - INFO - 127.0.0.1 - - [27/Feb/2025 11:01:29] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:01:29,691 - INFO - 127.0.0.1 - - [27/Feb/2025 11:01:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 11:01:29,718 - INFO - 127.0.0.1 - - [27/Feb/2025 11:01:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:01:29,719 - INFO - 127.0.0.1 - - [27/Feb/2025 11:01:29] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:01:37,043 - INFO - User input: how do I contact you | Predicted intent: contact_info
+2025-02-27 11:01:37,044 - INFO - 127.0.0.1 - - [27/Feb/2025 11:01:37] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:02:11,021 - INFO - User input: huh | Predicted intent: fallback
+2025-02-27 11:02:11,021 - INFO - 127.0.0.1 - - [27/Feb/2025 11:02:11] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:02:47,251 - INFO - User input: hi thar | Predicted intent: greeting
+2025-02-27 11:02:47,252 - INFO - 127.0.0.1 - - [27/Feb/2025 11:02:47] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:03:01,445 - INFO - User input: what services do you offe | Predicted intent: list_services
+2025-02-27 11:03:01,445 - INFO - 127.0.0.1 - - [27/Feb/2025 11:03:01] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:03:11,270 - INFO - User input: list your services | Predicted intent: list_services
+2025-02-27 11:03:11,270 - INFO - 127.0.0.1 - - [27/Feb/2025 11:03:11] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:09:34,150 - INFO - 127.0.0.1 - - [27/Feb/2025 11:09:34] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:09:34,164 - INFO - 127.0.0.1 - - [27/Feb/2025 11:09:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 11:09:34,391 - INFO - 127.0.0.1 - - [27/Feb/2025 11:09:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:09:34,470 - INFO - 127.0.0.1 - - [27/Feb/2025 11:09:34] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:09:38,430 - INFO - User input: Hello | Predicted intent: greeting
+2025-02-27 11:09:38,431 - INFO - 127.0.0.1 - - [27/Feb/2025 11:09:38] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:09:57,044 - INFO - 127.0.0.1 - - [27/Feb/2025 11:09:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 11:11:18,397 - INFO - 127.0.0.1 - - [27/Feb/2025 11:11:18] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:11:18,438 - INFO - 127.0.0.1 - - [27/Feb/2025 11:11:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 11:11:18,662 - INFO - 127.0.0.1 - - [27/Feb/2025 11:11:18] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:11:18,754 - INFO - 127.0.0.1 - - [27/Feb/2025 11:11:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:13:52,381 - INFO - 127.0.0.1 - - [27/Feb/2025 11:13:52] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:13:52,412 - INFO - 127.0.0.1 - - [27/Feb/2025 11:13:52] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 11:13:52,643 - INFO - 127.0.0.1 - - [27/Feb/2025 11:13:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:13:52,719 - INFO - 127.0.0.1 - - [27/Feb/2025 11:13:52] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:13:55,672 - INFO - User input: asdsa | Predicted intent: follow_up
+2025-02-27 11:13:55,672 - INFO - 127.0.0.1 - - [27/Feb/2025 11:13:55] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:14:41,776 - INFO - 127.0.0.1 - - [27/Feb/2025 11:14:41] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:14:42,084 - INFO - 127.0.0.1 - - [27/Feb/2025 11:14:42] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 11:14:42,108 - INFO - 127.0.0.1 - - [27/Feb/2025 11:14:42] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:14:42,112 - INFO - 127.0.0.1 - - [27/Feb/2025 11:14:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:15:03,009 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:03] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:15:03,039 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:03] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 11:15:03,260 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:15:03,337 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:03] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:15:19,289 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:19] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 11:15:19,321 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:19] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-27 11:15:19,538 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 11:15:19,635 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:19] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 11:15:31,207 - INFO - User input: Hello | Predicted intent: greeting
+2025-02-27 11:15:31,207 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:31] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:15:40,376 - INFO - User input: what services do you provide | Predicted intent: list_services
+2025-02-27 11:15:40,377 - INFO - 127.0.0.1 - - [27/Feb/2025 11:15:40] "POST /chat HTTP/1.1" 200 -
+2025-02-27 11:19:58,813 - INFO - 127.0.0.1 - - [27/Feb/2025 11:19:58] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2025-02-27 22:29:55,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-02-27 22:29:55,981 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 22:29:55,989 - INFO -  * Restarting with stat
+2025-02-27 22:29:59,727 - WARNING -  * Debugger is active!
+2025-02-27 22:29:59,732 - INFO -  * Debugger PIN: 938-888-063
+2025-02-27 22:30:07,236 - INFO - 127.0.0.1 - - [27/Feb/2025 22:30:07] "OPTIONS / HTTP/1.1" 200 -
+2025-02-27 22:30:54,859 - INFO - 127.0.0.1 - - [27/Feb/2025 22:30:54] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-27 22:30:54,897 - INFO - 127.0.0.1 - - [27/Feb/2025 22:30:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-27 22:30:54,905 - INFO - 127.0.0.1 - - [27/Feb/2025 22:30:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-27 22:30:55,195 - INFO - 127.0.0.1 - - [27/Feb/2025 22:30:55] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-27 22:30:55,522 - INFO - 127.0.0.1 - - [27/Feb/2025 22:30:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-28 08:38:57,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.130.198:5000
+2025-02-28 08:38:57,825 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-28 08:38:57,832 - INFO -  * Restarting with stat
+2025-02-28 08:39:00,875 - WARNING -  * Debugger is active!
+2025-02-28 08:39:00,879 - INFO -  * Debugger PIN: 938-888-063
+2025-02-28 08:39:20,837 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:20] "GET / HTTP/1.1" 200 -
+2025-02-28 08:39:20,932 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-28 08:39:21,183 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:21] "GET /static/chat-icon.png HTTP/1.1" 200 -
+2025-02-28 08:39:21,217 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:21] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-02-28 08:39:21,257 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-28 08:39:31,660 - INFO - User input: Hello | Predicted intent: greeting
+2025-02-28 08:39:31,660 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:31] "POST /chat HTTP/1.1" 200 -
+2025-02-28 08:39:42,281 - INFO - User input: what are your contact detail | Predicted intent: contact_info
+2025-02-28 08:39:42,282 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:42] "POST /chat HTTP/1.1" 200 -
+2025-02-28 08:39:49,815 - INFO - User input: what services do you provide | Predicted intent: list_services
+2025-02-28 08:39:49,816 - INFO - 127.0.0.1 - - [28/Feb/2025 08:39:49] "POST /chat HTTP/1.1" 200 -
+2025-02-28 08:54:58,588 - INFO - 127.0.0.1 - - [28/Feb/2025 08:54:58] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-28 08:54:58,846 - INFO - 127.0.0.1 - - [28/Feb/2025 08:54:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-28 08:54:58,929 - INFO - 127.0.0.1 - - [28/Feb/2025 08:54:58] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-28 08:54:58,940 - INFO - 127.0.0.1 - - [28/Feb/2025 08:54:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-28 08:55:13,069 - INFO - User input: What are the services you provide | Predicted intent: list_services
+2025-02-28 08:55:13,070 - INFO - 127.0.0.1 - - [28/Feb/2025 08:55:13] "POST /chat HTTP/1.1" 200 -
+2025-02-28 08:55:21,986 - INFO - User input: Contact | Predicted intent: contact_info
+2025-02-28 08:55:21,986 - INFO - 127.0.0.1 - - [28/Feb/2025 08:55:21] "POST /chat HTTP/1.1" 200 -
+2025-02-28 08:55:41,025 - INFO - User input: pricing details of firewalls | Predicted intent: pricing
+2025-02-28 08:55:41,026 - INFO - 127.0.0.1 - - [28/Feb/2025 08:55:41] "POST /chat HTTP/1.1" 200 -
+2025-02-28 09:06:37,379 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.145:5000
+2025-02-28 09:06:37,380 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-28 09:06:37,382 - INFO -  * Restarting with stat
+2025-02-28 09:06:40,830 - WARNING -  * Debugger is active!
+2025-02-28 09:06:40,832 - INFO -  * Debugger PIN: 938-888-063
+2025-02-28 09:06:55,839 - INFO - 127.0.0.1 - - [28/Feb/2025 09:06:55] "[36mGET / HTTP/1.1[0m" 304 -
+2025-02-28 09:06:55,938 - INFO - 127.0.0.1 - - [28/Feb/2025 09:06:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-02-28 09:06:56,190 - INFO - 127.0.0.1 - - [28/Feb/2025 09:06:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-02-28 09:06:56,192 - INFO - 127.0.0.1 - - [28/Feb/2025 09:06:56] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-02-28 09:07:03,133 - INFO - User input: hi | Predicted intent: greeting
+2025-02-28 09:07:03,133 - INFO - 127.0.0.1 - - [28/Feb/2025 09:07:03] "POST /chat HTTP/1.1" 200 -
+2025-02-28 09:07:14,089 - INFO - User input: whats your contact | Predicted intent: contact_info
+2025-02-28 09:07:14,090 - INFO - 127.0.0.1 - - [28/Feb/2025 09:07:14] "POST /chat HTTP/1.1" 200 -
+2025-02-28 09:07:19,097 - INFO - User input: gfrt | Predicted intent: follow_up
+2025-02-28 09:07:19,097 - INFO - 127.0.0.1 - - [28/Feb/2025 09:07:19] "POST /chat HTTP/1.1" 200 -
+2025-02-28 09:07:24,307 - INFO - User input: jhvhj | Predicted intent: follow_up
+2025-02-28 09:07:24,307 - INFO - 127.0.0.1 - - [28/Feb/2025 09:07:24] "POST /chat HTTP/1.1" 200 -
+2025-02-28 09:07:30,227 - INFO - User input: contact | Predicted intent: contact_info
+2025-02-28 09:07:30,228 - INFO - 127.0.0.1 - - [28/Feb/2025 09:07:30] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:14:43,964 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-03-15 18:14:43,965 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-15 18:14:43,979 - INFO -  * Restarting with stat
+2025-03-15 18:14:47,057 - WARNING -  * Debugger is active!
+2025-03-15 18:14:47,060 - INFO -  * Debugger PIN: 938-888-063
+2025-03-15 18:14:47,091 - INFO - 127.0.0.1 - - [15/Mar/2025 18:14:47] "OPTIONS / HTTP/1.1" 200 -
+2025-03-15 18:14:51,136 - INFO - 127.0.0.1 - - [15/Mar/2025 18:14:51] "OPTIONS / HTTP/1.1" 200 -
+2025-03-15 18:23:25,136 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-03-15 18:23:25,358 - INFO -  * Restarting with stat
+2025-03-15 18:29:25,567 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-03-15 18:29:25,567 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-15 18:29:25,570 - INFO -  * Restarting with stat
+2025-03-15 18:29:29,050 - WARNING -  * Debugger is active!
+2025-03-15 18:29:29,055 - INFO -  * Debugger PIN: 938-888-063
+2025-03-15 18:31:00,179 - INFO - 127.0.0.1 - - [15/Mar/2025 18:31:00] "GET / HTTP/1.1" 200 -
+2025-03-15 18:31:00,330 - INFO - 127.0.0.1 - - [15/Mar/2025 18:31:00] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-03-15 18:31:00,552 - INFO - 127.0.0.1 - - [15/Mar/2025 18:31:00] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-03-15 18:31:00,552 - INFO - 127.0.0.1 - - [15/Mar/2025 18:31:00] "GET /static/chat-icon.png HTTP/1.1" 200 -
+2025-03-15 18:31:00,591 - INFO - 127.0.0.1 - - [15/Mar/2025 18:31:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-15 18:31:05,280 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:31:05,281 - INFO - 127.0.0.1 - - [15/Mar/2025 18:31:05] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:35:25,967 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-03-15 18:35:26,111 - INFO -  * Restarting with stat
+2025-03-15 18:35:29,488 - WARNING -  * Debugger is active!
+2025-03-15 18:35:29,490 - INFO -  * Debugger PIN: 938-888-063
+2025-03-15 18:35:31,713 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-03-15 18:35:31,870 - INFO -  * Restarting with stat
+2025-03-15 18:35:36,362 - WARNING -  * Debugger is active!
+2025-03-15 18:35:36,365 - INFO -  * Debugger PIN: 938-888-063
+2025-03-15 18:36:29,230 - INFO - 127.0.0.1 - - [15/Mar/2025 18:36:29] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:36:29,510 - INFO - User input: hi | Predicted intent: greeting
+2025-03-15 18:36:29,512 - INFO - 127.0.0.1 - - [15/Mar/2025 18:36:29] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:36:39,298 - INFO - 127.0.0.1 - - [15/Mar/2025 18:36:39] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:36:39,639 - INFO - User input: What are the services you provide | Predicted intent: list_services
+2025-03-15 18:36:39,640 - INFO - 127.0.0.1 - - [15/Mar/2025 18:36:39] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:36:58,555 - INFO - 127.0.0.1 - - [15/Mar/2025 18:36:58] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:36:58,893 - INFO - User input: What services do you offer | Predicted intent: services_overview
+2025-03-15 18:36:58,894 - INFO - 127.0.0.1 - - [15/Mar/2025 18:36:58] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:37:00,666 - INFO - User input: How do I contact you | Predicted intent: contact_info
+2025-03-15 18:37:00,667 - INFO - 127.0.0.1 - - [15/Mar/2025 18:37:00] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:37:04,312 - INFO - 127.0.0.1 - - [15/Mar/2025 18:37:04] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:37:04,598 - INFO - User input: How much | Predicted intent: pricing
+2025-03-15 18:37:04,600 - INFO - 127.0.0.1 - - [15/Mar/2025 18:37:04] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:41:38,594 - INFO - 127.0.0.1 - - [15/Mar/2025 18:41:38] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:41:38,875 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:41:38,875 - INFO - 127.0.0.1 - - [15/Mar/2025 18:41:38] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:41:51,835 - INFO - 127.0.0.1 - - [15/Mar/2025 18:41:51] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:41:52,168 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:41:52,169 - INFO - 127.0.0.1 - - [15/Mar/2025 18:41:52] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:45:10,572 - INFO - 127.0.0.1 - - [15/Mar/2025 18:45:10] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:45:10,854 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:45:10,855 - INFO - 127.0.0.1 - - [15/Mar/2025 18:45:10] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:45:47,668 - INFO - 127.0.0.1 - - [15/Mar/2025 18:45:47] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:45:48,002 - INFO - User input: help | Predicted intent: help
+2025-03-15 18:45:48,002 - INFO - 127.0.0.1 - - [15/Mar/2025 18:45:48] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:45:51,422 - INFO - User input: When can you start | Predicted intent: availability
+2025-03-15 18:45:51,422 - INFO - 127.0.0.1 - - [15/Mar/2025 18:45:51] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:46:16,119 - INFO - 127.0.0.1 - - [15/Mar/2025 18:46:16] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:46:16,381 - INFO - User input: When can you start | Predicted intent: availability
+2025-03-15 18:46:16,381 - INFO - 127.0.0.1 - - [15/Mar/2025 18:46:16] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:46:57,547 - INFO - 127.0.0.1 - - [15/Mar/2025 18:46:57] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:46:57,879 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:46:57,880 - INFO - 127.0.0.1 - - [15/Mar/2025 18:46:57] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:47:32,504 - INFO - 127.0.0.1 - - [15/Mar/2025 18:47:32] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:47:32,839 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:47:32,840 - INFO - 127.0.0.1 - - [15/Mar/2025 18:47:32] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:47:54,665 - INFO - 127.0.0.1 - - [15/Mar/2025 18:47:54] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:47:54,988 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:47:54,989 - INFO - 127.0.0.1 - - [15/Mar/2025 18:47:54] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:49:40,563 - INFO - 127.0.0.1 - - [15/Mar/2025 18:49:40] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:49:40,839 - INFO - User input: Hi | Predicted intent: greeting
+2025-03-15 18:49:40,839 - INFO - 127.0.0.1 - - [15/Mar/2025 18:49:40] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:49:53,399 - INFO - 127.0.0.1 - - [15/Mar/2025 18:49:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:49:53,738 - INFO - User input: what services do you provide | Predicted intent: list_services
+2025-03-15 18:49:53,739 - INFO - 127.0.0.1 - - [15/Mar/2025 18:49:53] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:51:45,841 - INFO - 127.0.0.1 - - [15/Mar/2025 18:51:45] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:51:46,121 - INFO - User input: When can you start | Predicted intent: availability
+2025-03-15 18:51:46,121 - INFO - 127.0.0.1 - - [15/Mar/2025 18:51:46] "POST /chat HTTP/1.1" 200 -
+2025-03-15 18:53:51,705 - INFO - 127.0.0.1 - - [15/Mar/2025 18:53:51] "OPTIONS /chat HTTP/1.1" 200 -
+2025-03-15 18:53:51,987 - INFO - User input: what else | Predicted intent: follow_up
+2025-03-15 18:53:51,988 - INFO - 127.0.0.1 - - [15/Mar/2025 18:53:51] "POST /chat HTTP/1.1" 200 -
+2025-04-19 14:27:45,262 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-04-19 14:27:45,262 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-19 14:27:45,282 - INFO -  * Restarting with stat
+2025-04-19 14:27:48,118 - WARNING -  * Debugger is active!
+2025-04-19 14:27:48,124 - INFO -  * Debugger PIN: 259-000-783
+2025-04-19 14:28:24,149 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:24] "GET / HTTP/1.1" 200 -
+2025-04-19 14:28:24,206 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:24] "GET /static/chat-icon.png HTTP/1.1" 200 -
+2025-04-19 14:28:24,215 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:24] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-19 14:28:24,224 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:24] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-19 14:28:24,273 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-19 14:28:27,638 - INFO - User input: Hi | Predicted intent: greeting
+2025-04-19 14:28:27,638 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:27] "POST /chat HTTP/1.1" 200 -
+2025-04-19 14:28:36,685 - INFO - User input: What services do you provide | Predicted intent: list_services
+2025-04-19 14:28:36,686 - INFO - 127.0.0.1 - - [19/Apr/2025 14:28:36] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:09:34,328 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-04-23 09:09:34,328 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 09:09:34,349 - INFO -  * Restarting with stat
+2025-04-23 09:09:38,334 - WARNING -  * Debugger is active!
+2025-04-23 09:09:38,340 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 09:09:38,485 - INFO - 127.0.0.1 - - [23/Apr/2025 09:09:38] "GET / HTTP/1.1" 200 -
+2025-04-23 09:09:38,530 - INFO - 127.0.0.1 - - [23/Apr/2025 09:09:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-23 09:09:38,532 - INFO - 127.0.0.1 - - [23/Apr/2025 09:09:38] "GET /static/chat-icon.png HTTP/1.1" 200 -
+2025-04-23 09:09:38,839 - INFO - 127.0.0.1 - - [23/Apr/2025 09:09:38] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-23 09:09:39,196 - INFO - 127.0.0.1 - - [23/Apr/2025 09:09:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 09:09:45,400 - INFO - User input: asdsad | Predicted intent: firewall_solutions
+2025-04-23 09:09:45,401 - INFO - 127.0.0.1 - - [23/Apr/2025 09:09:45] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:10:49,517 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-04-23 09:10:49,797 - INFO -  * Restarting with stat
+2025-04-23 09:17:36,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-04-23 09:17:36,655 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 09:17:36,659 - INFO -  * Restarting with stat
+2025-04-23 09:17:43,780 - WARNING -  * Debugger is active!
+2025-04-23 09:17:43,786 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 09:17:43,934 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:43] "[36mGET / HTTP/1.1[0m" 304 -
+2025-04-23 09:17:43,964 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:43] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-04-23 09:17:43,965 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 09:17:44,272 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:44] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-23 09:17:47,365 - INFO - User input: asdsad | Predicted intent: fallback | Confidence: 0.72 | Sentiment: 0.00
+2025-04-23 09:17:47,366 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:47] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:17:52,176 - INFO - User input: NAkdjnaskd | Predicted intent: fallback | Confidence: 0.72 | Sentiment: 0.00
+2025-04-23 09:17:52,176 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:52] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:17:56,736 - INFO - User input: Hi there | Predicted intent: greeting | Confidence: 0.99 | Sentiment: 0.00
+2025-04-23 09:17:56,738 - INFO - 127.0.0.1 - - [23/Apr/2025 09:17:56] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:20:41,191 - INFO - User input: What is samasta group | Predicted intent: about_samasta | Confidence: 0.99 | Sentiment: 0.00
+2025-04-23 09:20:41,192 - INFO - 127.0.0.1 - - [23/Apr/2025 09:20:41] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:27:36,666 - INFO - User input: what else do you do | Predicted intent: about_samasta | Confidence: 0.70 | Sentiment: 0.00
+2025-04-23 09:27:36,667 - INFO - 127.0.0.1 - - [23/Apr/2025 09:27:36] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:27:47,706 - INFO - User input: What are your services | Predicted intent: list_services | Confidence: 0.97 | Sentiment: 0.00
+2025-04-23 09:27:47,707 - INFO - 127.0.0.1 - - [23/Apr/2025 09:27:47] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:28:01,326 - INFO - User input: whats your pricing for network management | Predicted intent: network_management | Confidence: 0.99 | Sentiment: 0.00
+2025-04-23 09:28:01,327 - INFO - 127.0.0.1 - - [23/Apr/2025 09:28:01] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:29:08,244 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-04-23 09:29:08,473 - INFO -  * Restarting with stat
+2025-04-23 09:29:15,454 - WARNING -  * Debugger is active!
+2025-04-23 09:29:15,458 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 09:29:22,396 - INFO -  * Detected change in 'C:\\Users\\Bijay\\Downloads\\MASTA_BOT\\masta_bot.py', reloading
+2025-04-23 09:29:22,598 - INFO -  * Restarting with stat
+2025-04-23 09:29:29,394 - WARNING -  * Debugger is active!
+2025-04-23 09:29:29,398 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 09:29:42,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-04-23 09:29:42,010 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 09:29:42,011 - INFO -  * Restarting with stat
+2025-04-23 09:29:48,636 - WARNING -  * Debugger is active!
+2025-04-23 09:29:48,644 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 09:29:49,077 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:49] "[36mGET / HTTP/1.1[0m" 304 -
+2025-04-23 09:29:49,099 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:49] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-04-23 09:29:49,100 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 09:29:49,404 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-23 09:29:52,034 - INFO - User input: Hi | Predicted intent: greeting | Confidence: 0.99 | Sentiment: 0.00
+2025-04-23 09:29:52,036 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:52] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:29:58,735 - INFO - User input: What services do you provide | Predicted intent: services_overview | Confidence: 0.50 | Sentiment: 0.00
+2025-04-23 09:29:58,736 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:58] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:31:03,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-04-23 09:31:03,267 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 09:31:03,271 - INFO -  * Restarting with stat
+2025-04-23 09:31:10,336 - WARNING -  * Debugger is active!
+2025-04-23 09:31:10,340 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 09:31:10,472 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:10] "[36mGET / HTTP/1.1[0m" 304 -
+2025-04-23 09:31:10,502 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:10] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-04-23 09:31:10,503 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 09:31:10,817 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-23 09:31:13,233 - INFO - User input: What services do you provide | Predicted intent: services_overview | Confidence: 0.74 | Sentiment: 0.00
+2025-04-23 09:31:13,234 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:13] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:31:23,508 - INFO - User input: yes show me all | Predicted intent: fallback | Confidence: 0.61 | Sentiment: 0.00
+2025-04-23 09:31:23,509 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:23] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:31:31,694 - INFO - User input: Show me all services | Predicted intent: list_services | Confidence: 0.66 | Sentiment: 0.00
+2025-04-23 09:31:31,695 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:31] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:31:39,630 - INFO - User input: Whats the pricing for firewalls | Predicted intent: firewall_solutions | Confidence: 0.99 | Sentiment: 0.00
+2025-04-23 09:31:39,631 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:39] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:31:57,261 - INFO - User input: What is network design for | Predicted intent: network_design | Confidence: 0.99 | Sentiment: 0.00
+2025-04-23 09:31:57,262 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:57] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:32:24,955 - INFO - User input: asdasda | Predicted intent: fallback | Confidence: 0.61 | Sentiment: 0.00
+2025-04-23 09:32:24,955 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:24] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:32:31,004 - INFO - User input: nfasnkjasf | Predicted intent: fallback | Confidence: 0.61 | Sentiment: 0.00
+2025-04-23 09:32:31,004 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:31] "POST /chat HTTP/1.1" 200 -
+2025-04-23 09:32:34,123 - INFO - User input: adsa | Predicted intent: fallback | Confidence: 0.61 | Sentiment: 0.00
+2025-04-23 09:32:34,125 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:34] "POST /chat HTTP/1.1" 200 -
+2025-04-23 15:19:14,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+2025-04-23 15:19:14,177 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 15:19:14,188 - INFO -  * Restarting with stat
+2025-04-23 15:19:20,462 - WARNING -  * Debugger is active!
+2025-04-23 15:19:20,466 - INFO -  * Debugger PIN: 938-888-063
+2025-04-23 15:19:35,937 - INFO - 127.0.0.1 - - [23/Apr/2025 15:19:35] "[36mGET / HTTP/1.1[0m" 304 -
+2025-04-23 15:19:35,999 - INFO - 127.0.0.1 - - [23/Apr/2025 15:19:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 15:19:36,018 - INFO - 127.0.0.1 - - [23/Apr/2025 15:19:36] "[36mGET /static/chat-icon.png HTTP/1.1[0m" 304 -
+2025-04-23 15:19:36,331 - INFO - 127.0.0.1 - - [23/Apr/2025 15:19:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-23 15:19:41,836 - INFO - User input: asdsadsads | Predicted intent: fallback | Confidence: 0.73 | Sentiment: 0.00
+2025-04-23 15:19:41,837 - INFO - 127.0.0.1 - - [23/Apr/2025 15:19:41] "POST /chat HTTP/1.1" 200 -

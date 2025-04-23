@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Samasta Groups - MASTA-BOT</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <!-- Sample website content -->
+    <h1>Welcome to Samasta Groups</h1>
+    <p>This is a sample page...</p>
+
+    <!-- Chat icon with custom image -->
+    <div id="chat-icon" onclick="toggleChat()">
+        <img src="/static/chat-icon.png" alt="Chat">
+    </div>
+
+    <!-- Chat popup -->
+    <div id="chat-popup">
+        <div id="chat-header">
+            MASTA-BOT - Samasta Groups
+            <span id="close-btn" onclick="toggleChat()">✖</span>
+        </div>
+        <div id="chat-content"></div>
+        <div id="chat-footer">
+            <div id="quick-actions"></div>
+            <div id="input-area">
+                <input type="text" id="message" placeholder="Type your message..." />
+                <button id="send-btn" onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
